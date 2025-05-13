@@ -1,0 +1,114 @@
+{
+  "veranstaltungen": [
+    {
+      "name": "Neumünster Citylauf",
+      "adresse": "Großflecken, 24534 Neumünster",
+      "beispielbild": "https://example.com/bilder/citylauf.jpg",
+      "beschreibung": "Der jährliche Citylauf führt durch die Innenstadt von Neumünster und ist für alle Altersklassen geeignet.",
+      "eintrittspreis": "Kostenfrei",
+      "vorverkaufsstelle": "Keine Anmeldung erforderlich",
+      "kategorie": "Sport",
+      "datum": "2025-07-06"
+    },
+    {
+      "name": "Kulturnacht Neumünster",
+      "adresse": "Innenstadt, 24534 Neumünster",
+      "beispielbild": "https://example.com/bilder/kulturnacht.jpg",
+      "beschreibung": "Museen, Ateliers und Theater öffnen ihre Türen bis Mitternacht. Es gibt Konzerte, Lesungen und Ausstellungen.",
+      "eintrittspreis": "10 Euro",
+      "vorverkaufsstelle": "Tourist-Information Neumünster, Großflecken 34",
+      "kategorie": "Kultur",
+      "datum": "2025-08-09"
+    },
+    {
+      "name": "Street Food Festival",
+      "adresse": "Parkcenter Neumünster, Oderstraße 10, 24539 Neumünster",
+      "beispielbild": "https://example.com/bilder/streetfood.jpg",
+      "beschreibung": "Genießen Sie kulinarische Köstlichkeiten aus aller Welt an über 30 Foodtrucks.",
+      "eintrittspreis": "3 Euro",
+      "vorverkaufsstelle": "Online unter streetfood-nms.de",
+      "kategorie": "Essen & Trinken",
+      "datum": "2025-07-26"
+    },
+    {
+      "name": "Jazz im Tierpark",
+      "adresse": "Tierpark Neumünster, Geerdtsstraße 100, 24537 Neumünster",
+      "beispielbild": "https://example.com/bilder/jazz.jpg",
+      "beschreibung": "Live-Jazzkonzert in außergewöhnlicher Atmosphäre zwischen Löwe, Affe und Co.",
+      "eintrittspreis": "12 Euro (inkl. Tierpark-Eintritt)",
+      "vorverkaufsstelle": "Tierpark-Kasse und Online",
+      "kategorie": "Musik",
+      "datum": "2025-07-19"
+    },
+    {
+      "name": "Mittelaltermarkt",
+      "adresse": "Waschpohl, 24534 Neumünster",
+      "beispielbild": "https://example.com/bilder/mittelaltermarkt.jpg",
+      "beschreibung": "Erleben Sie das Mittelalter mit Gauklern, Händlern, Ritterspielen und Lagerleben.",
+      "eintrittspreis": "6 Euro, Kinder unter 12 frei",
+      "vorverkaufsstelle": "An der Tageskasse",
+      "kategorie": "Freizeit",
+      "datum": "2025-08-03"
+    },
+    {
+      "name": "Sommerkino im Freien",
+      "adresse": "Innenhof der Stadthalle, Kleinflecken 1, 24534 Neumünster",
+      "beispielbild": "https://example.com/bilder/sommerkino.jpg",
+      "beschreibung": "Open-Air-Kino mit aktuellen Filmen und Klassikern. Bitte eigene Decke mitbringen.",
+      "eintrittspreis": "8 Euro",
+      "vorverkaufsstelle": "Stadthallen-Website oder Abendkasse",
+      "kategorie": "Kultur",
+      "datum": "2025-07-12"
+    },
+    {
+      "name": "Kinderfest im Stadtpark",
+      "adresse": "Stadtpark Neumünster, Plöner Straße 150, 24536 Neumünster",
+      "beispielbild": "https://example.com/bilder/kinderfest.jpg",
+      "beschreibung": "Ein buntes Fest mit Spielstationen, Hüpfburgen, Kinderschminken und Musik für die ganze Familie.",
+      "eintrittspreis": "Kostenfrei",
+      "vorverkaufsstelle": "Keine Anmeldung erforderlich",
+      "kategorie": "Familie",
+      "datum": "2025-07-20"
+    },
+    {
+      "name": "Craft Beer & Braufest",
+      "adresse": "Holstenhallen Gelände, Justus-von-Liebig-Straße 2–4, 24537 Neumünster",
+      "beispielbild": "https://example.com/bilder/craftbeer.jpg",
+      "beschreibung": "Regionale Brauereien stellen ihre Biere vor. Mit Livebands und Foodtrucks.",
+      "eintrittspreis": "5 Euro",
+      "vorverkaufsstelle": "Online auf holstenhallen.de",
+      "kategorie": "Essen & Trinken",
+      "datum": "2025-08-02"
+    },
+    {
+      "name": "Yoga im Park",
+      "adresse": "Stadtpark Neumünster, Wiese am See",
+      "beispielbild": "https://example.com/bilder/yoga.jpg",
+      "beschreibung": "Kostenlose Yoga-Sessions für Anfänger und Fortgeschrittene in entspannter Atmosphäre.",
+      "eintrittspreis": "Spendenbasis",
+      "vorverkaufsstelle": "Keine Anmeldung erforderlich",
+      "kategorie": "Gesundheit",
+      "datum": "2025-07-14"
+    },
+    {
+      "name": "Kunsthandwerkermarkt",
+      "adresse": "Kulturhof Neumünster, Kieler Straße 90, 24534 Neumünster",
+      "beispielbild": "https://example.com/bilder/kunstmarkt.jpg",
+      "beschreibung": "Über 50 Aussteller zeigen handgemachte Unikate von Schmuck bis Keramik.",
+      "eintrittspreis": "2 Euro",
+      "vorverkaufsstelle": "Tageskasse am Eingang",
+      "kategorie": "Kunst & Handwerk",
+      "datum": "2025-07-27"
+    },
+    {
+      "name": "Historische Stadtführung durch Neumünster",
+      "adresse": "Treffpunkt: Rathausplatz, 24534 Neumünster",
+      "beispielbild": "https://example.com/bilder/stadtfuehrung.jpg",
+      "beschreibung": "Entdecken Sie die Geschichte Neumünsters bei einem geführten Rundgang zu historischen Gebäuden, Denkmälern und verborgenen Ecken.",
+      "eintrittspreis": "5 Euro",
+      "vorverkaufsstelle": "Tourist-Information Neumünster, Großflecken 34 oder vor Ort",
+      "kategorie": "Stadtführung",
+      "datum": "2025-07-18"
+    }
+  ]
+}
