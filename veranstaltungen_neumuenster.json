@@ -3,7 +3,7 @@
     {
       "name": "Neumünster Citylauf",
       "adresse": "Großflecken, 24534 Neumünster",
-      "beispielbild": "https://example.com/bilder/citylauf.jpg",
+      "beispielbild": "https://www.pexels.com/photo/photo-of-people-in-a-marathon-2654902/",
       "beschreibung": "Der jährliche Citylauf führt durch die Innenstadt von Neumünster und ist für alle Altersklassen geeignet.",
       "eintrittspreis": "Kostenfrei",
       "vorverkaufsstelle": "Keine Anmeldung erforderlich",
@@ -13,7 +13,7 @@
     {
       "name": "Kulturnacht Neumünster",
       "adresse": "Innenstadt, 24534 Neumünster",
-      "beispielbild": "https://example.com/bilder/kulturnacht.jpg",
+      "beispielbild": "https://www.pexels.com/photo/multicolored-museum-sign-137038/",
       "beschreibung": "Museen, Ateliers und Theater öffnen ihre Türen bis Mitternacht. Es gibt Konzerte, Lesungen und Ausstellungen.",
       "eintrittspreis": "10 Euro",
       "vorverkaufsstelle": "Tourist-Information Neumünster, Großflecken 34",
@@ -23,7 +23,7 @@
     {
       "name": "Street Food Festival",
       "adresse": "Parkcenter Neumünster, Oderstraße 10, 24539 Neumünster",
-      "beispielbild": "https://example.com/bilder/streetfood.jpg",
+      "beispielbild": "https://www.pexels.com/photo/squeezing-lime-on-tacos-at-a-mexican-street-food-stall-29407542/",
       "beschreibung": "Genießen Sie kulinarische Köstlichkeiten aus aller Welt an über 30 Foodtrucks.",
       "eintrittspreis": "3 Euro",
       "vorverkaufsstelle": "Online unter streetfood-nms.de",
@@ -33,7 +33,7 @@
     {
       "name": "Jazz im Tierpark",
       "adresse": "Tierpark Neumünster, Geerdtsstraße 100, 24537 Neumünster",
-      "beispielbild": "https://example.com/bilder/jazz.jpg",
+      "beispielbild": "https://www.pexels.com/photo/person-holding-saxophone-in-gray-scale-photography-164934/",
       "beschreibung": "Live-Jazzkonzert in außergewöhnlicher Atmosphäre zwischen Löwe, Affe und Co.",
       "eintrittspreis": "12 Euro (inkl. Tierpark-Eintritt)",
       "vorverkaufsstelle": "Tierpark-Kasse und Online",
@@ -43,7 +43,7 @@
     {
       "name": "Mittelaltermarkt",
       "adresse": "Waschpohl, 24534 Neumünster",
-      "beispielbild": "https://example.com/bilder/mittelaltermarkt.jpg",
+      "beispielbild": "https://www.pexels.com/photo/woman-making-clay-pot-2166456/",
       "beschreibung": "Erleben Sie das Mittelalter mit Gauklern, Händlern, Ritterspielen und Lagerleben.",
       "eintrittspreis": "6 Euro, Kinder unter 12 frei",
       "vorverkaufsstelle": "An der Tageskasse",
@@ -53,7 +53,7 @@
     {
       "name": "Sommerkino im Freien",
       "adresse": "Innenhof der Stadthalle, Kleinflecken 1, 24534 Neumünster",
-      "beispielbild": "https://example.com/bilder/sommerkino.jpg",
+      "beispielbild": "https://www.pexels.com/photo/selective-focus-photography-of-popcorns-33129/",
       "beschreibung": "Open-Air-Kino mit aktuellen Filmen und Klassikern. Bitte eigene Decke mitbringen.",
       "eintrittspreis": "8 Euro",
       "vorverkaufsstelle": "Stadthallen-Website oder Abendkasse",
@@ -63,7 +63,7 @@
     {
       "name": "Kinderfest im Stadtpark",
       "adresse": "Stadtpark Neumünster, Plöner Straße 150, 24536 Neumünster",
-      "beispielbild": "https://example.com/bilder/kinderfest.jpg",
+      "beispielbild": "https://www.pexels.com/photo/kids-playing-with-colored-powder-7176461/",
       "beschreibung": "Ein buntes Fest mit Spielstationen, Hüpfburgen, Kinderschminken und Musik für die ganze Familie.",
       "eintrittspreis": "Kostenfrei",
       "vorverkaufsstelle": "Keine Anmeldung erforderlich",
@@ -73,7 +73,7 @@
     {
       "name": "Craft Beer & Braufest",
       "adresse": "Holstenhallen Gelände, Justus-von-Liebig-Straße 2–4, 24537 Neumünster",
-      "beispielbild": "https://example.com/bilder/craftbeer.jpg",
+      "beispielbild": "https://www.pexels.com/photo/friends-toasting-their-drinks-6174129/",
       "beschreibung": "Regionale Brauereien stellen ihre Biere vor. Mit Livebands und Foodtrucks.",
       "eintrittspreis": "5 Euro",
       "vorverkaufsstelle": "Online auf holstenhallen.de",
@@ -83,7 +83,7 @@
     {
       "name": "Yoga im Park",
       "adresse": "Stadtpark Neumünster, Wiese am See",
-      "beispielbild": "https://example.com/bilder/yoga.jpg",
+      "beispielbild": "https://www.pexels.com/photo/silhouette-of-man-at-daytime-1051838/",
       "beschreibung": "Kostenlose Yoga-Sessions für Anfänger und Fortgeschrittene in entspannter Atmosphäre.",
       "eintrittspreis": "Spendenbasis",
       "vorverkaufsstelle": "Keine Anmeldung erforderlich",
@@ -93,7 +93,7 @@
     {
       "name": "Kunsthandwerkermarkt",
       "adresse": "Kulturhof Neumünster, Kieler Straße 90, 24534 Neumünster",
-      "beispielbild": "https://example.com/bilder/kunstmarkt.jpg",
+      "beispielbild": "https://www.pexels.com/photo/person-knitting-brown-leather-textile-982657/",
       "beschreibung": "Über 50 Aussteller zeigen handgemachte Unikate von Schmuck bis Keramik.",
       "eintrittspreis": "2 Euro",
       "vorverkaufsstelle": "Tageskasse am Eingang",
@@ -103,7 +103,7 @@
     {
       "name": "Historische Stadtführung durch Neumünster",
       "adresse": "Treffpunkt: Rathausplatz, 24534 Neumünster",
-      "beispielbild": "https://example.com/bilder/stadtfuehrung.jpg",
+      "beispielbild": "https://www.pexels.com/photo/group-of-people-standing-beside-body-of-water-2672979/",
       "beschreibung": "Entdecken Sie die Geschichte Neumünsters bei einem geführten Rundgang zu historischen Gebäuden, Denkmälern und verborgenen Ecken.",
       "eintrittspreis": "5 Euro",
       "vorverkaufsstelle": "Tourist-Information Neumünster, Großflecken 34 oder vor Ort",
